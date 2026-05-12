@@ -1,0 +1,170 @@
+Togalu-Gombe (State Pride) 
+
+ 
+
+My Digital Shadow-Theater Companion 
+
+ 
+
+Android App Development using GenAI 
+
+ 
+
+Project Title 
+
+Android App Development using GenAI – Togalu-Gombe (State Pride) 
+
+Project Number 
+
+39 
+
+Platform 
+
+Android (Kotlin + XML Layouts) 
+
+Domain 
+
+Cultural Heritage / Folk Arts / Entertainment Technology 
+
+Category 
+
+Android Application with GenAI Integration & Room Database 
+
+Report Type 
+
+Internship / Academic Project Report 
+
+ 
+
+ 
+
+Prepared by: 
+
+Arpitha C 
+
+USN: 1SG22IS009 
+
+Arpithakchannegowda@gamil.in 
+
+Sapthagiri  College of Engineering 
+
+Department of Information  and Science Engineering 
+
+2025 – 2026 
+
+ 
+
+1. Introduction 
+
+Togalu-Gombe (State Pride) is an Android application developed to preserve, promote, and make accessible the ancient Indian folk art of Leather Puppetry — known in Kannada as Togalu Gombeyaata. This art form, which has been practised for centuries across Karnataka, involves intricately crafted leather puppets performing epic narratives such as the Ramayana and the Mahabharata against illuminated screens — a technique that gives it the name 'shadow theater.' 
+
+ 
+
+Despite its rich cultural heritage, Togalu Gombeyaata is gradually losing its audience. The performances are traditionally narrated in classical or 'Old Kannada,' a dialect that is increasingly unfamiliar to younger generations. The rapid pace of scenes, combined with the absence of modern contextualisation, makes it difficult for first-time viewers to follow or appreciate the art form. As a result, the younger generation — the very demographic that must carry this tradition forward — finds themselves disengaged, and the art risks losing its 'Entertainment Value.' 
+
+ 
+
+Togalu-Gombe bridges this gap by acting as a 'Digital Shadow-Theater Companion.' Developed using Kotlin with XML-based layouts, the app integrates a rich local database of character descriptions and imagery, the ExoPlayer media library for traditional musical background clips, and a simulated Puppet Scan feature that allows users to identify puppet characters and their symbolic attributes. The application targets both live performance attendees and independent learners who wish to explore Karnataka's puppetry heritage at their own pace. 
+
+ 
+
+The application is designed to serve a dual purpose: enhancing the live performance experience through real-time scene-by-scene narration, and fostering independent cultural exploration through an interactive Puppet Gallery. By combining entertainment with education, Togalu-Gombe aspires to bridge the generational and linguistic gap that currently threatens this irreplaceable form of cultural expression. 
+
+ 
+
+2. Problem Statement 
+
+Leather Puppetry (Togalu Gombeyaata) is one of the oldest visual arts in India, with roots in Karnataka's ancient cultural traditions. Despite its historical significance and artistic depth, the art form is currently on a decline trajectory, threatened by a combination of linguistic, generational, and contextual barriers. Several interconnected challenges contribute to this decline: 
+
+ 
+
+Challenge 
+
+Description 
+
+Language Barrier 
+
+Performances are narrated in classical or 'Old Kannada,' which is largely inaccessible to younger audiences and non-native speakers, creating an immediate comprehension barrier. 
+
+Pace & Complexity 
+
+The rapid pace of scene transitions and the symbolic complexity of puppet characters make it difficult for uninitiated viewers to follow the narrative arc of the performances. 
+
+Entertainment Value Loss 
+
+Without contextual understanding, audiences disengage quickly. The art is losing its entertainment value as viewers cannot connect emotionally or intellectually with the storyline. 
+
+No Digital Presence 
+
+Togalu Gombeyaata lacks a dedicated digital companion that can provide real-time assistance, character information, or cultural context during or outside of live performances. 
+
+Artisan Invisibility 
+
+The craftsmen who create these intricate leather puppets — each perforated by hand to produce stunning shadow effects — have no digital marketplace or booking platform to reach wider audiences. 
+
+Vanishing Craft Knowledge 
+
+The techniques of leather curing, dyeing, and perforation used in puppet creation are not documented in any accessible digital format, risking the permanent loss of craft knowledge. 
+
+
+ 
+
+3. Project Visio
+
+Togalu-Gombe envisions a world where Karnataka's ancient folk arts are not merely preserved in museums and archives, but are actively experienced, understood, and celebrated by every generation. The application is built on four foundational pillars: 
+
+ 
+
+Cultural Accessibility – Every person attending a Togalu Gombeyaata performance, regardless of age or language background, should be able to follow the story in simple, modern Kannada or English, with a scene-by-scene guide available at their fingertips. 
+
+Artistic Engagement – Technology should amplify the beauty of the art form, not replace it. The app's dark, shadow-theater-inspired UI and ExoPlayer-backed traditional music clips create an immersive companion experience that respects and enhances the live performance. 
+
+Craft Empowerment – The artisans who create Togalu puppets must be connected to a wider market. The Artist Connect feature enables workshop bookings and direct purchases of miniature puppets, creating a sustainable economic pathway for master craftspeople. 
+
+Heritage Documentation – The techniques of leather curing, dyeing, and puppet perforation are living knowledge that must be recorded. The History Feed feature presents short, engaging videos that document these craft processes for posterity. 
+
+ 
+
+Togalu-Gombe is not merely an informational app — it is a cultural empowerment platform designed to ensure that one of Karnataka's most extraordinary art forms remains relevant, economically viable, and beloved by the digital generation. 
+
+
+
+4. Scope of the Application 
+
+4.1 Target Users 
+
+Live Audience Members – Attendees of Togalu Gombeyaata performances who require real-time scene narration and character identification in simple Kannada or English. 
+
+Students and Cultural Enthusiasts – Individuals who wish to learn about Karnataka's puppetry heritage independently, outside of live performances. 
+
+Art Educators and Researchers – Teachers, academics, and cultural organisations seeking a structured digital resource on Togalu Gombeyaata. 
+
+Craft Buyers and Workshop Seekers – Individuals interested in purchasing miniature Togalu puppets as home decor or attending puppet-making workshops led by master artisans. 
+
+Artisans and Puppet Makers – Craftspeople who wish to reach a wider audience for their work through the Artist Connect feature. 
+
+ 
+
+4.2 Platform 
+
+Android smartphones with a minimum API Level 21 (Android 5.0 Lollipop and above). 
+
+Optimised for both mid-range and high-end devices, with a dark-themed UI designed to be battery-efficient. 
+
+APK size managed to remain lightweight for devices with limited internal storage. 
+
+ 
+
+4.3 Key Operational Scenarios 
+
+Attending a live Togalu Gombeyaata show and using Live Assist to follow the scene-by-scene story guide. 
+
+Pointing a device camera at a puppet character (simulated Puppet Scan) to identify its name, role, and symbolic powers. 
+
+Exploring the interactive Puppet Gallery with zoomable, high-resolution images of puppet characters. 
+
+Booking a puppet-making workshop or purchasing a miniature puppet via Artist Connect. 
+
+Watching short History Feed videos documenting leather curing, dyeing, and perforation techniques. 
+
+ 
