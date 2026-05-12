@@ -1,0 +1,31 @@
+A modern, feature rich Android application built using Kotlin and Android Jetpack components. This app demonstrates clean architecture, media handling, and scalable Android development.
+
+🚀 Features
+• 📱 Clean and modern UI • 🎥 Video playback using ExoPlayer • 📸 Camera integration using CameraX • 🗂️ Local database using Room • 🖼️ Image loading with Glide • 📜 Smooth navigation across screens • 🔄 RecyclerView for dynamic lists
+
+🛠️ Tech Stack
+• Language: Kotlin • Architecture: MVVM • UI: XML Layouts • Database: Room • Media: ExoPlayer • Camera: CameraX • Image Loading: Glide
+
+📂 Project Structure
+com.example.togalugombe
+
+ui/ → Activities and UI logic data/ → Database and models adapter/ → RecyclerView adapters utils/ → Helper classes
+
+⚙️ Setup Instructions
+Clone the Repository
+git clone https://github.com/YOUR_USERNAME/TogaluGombe.git
+
+Or Download ZIP
+Go to the repository on GitHub
+Click Code
+Click Download ZIP
+Locate the downloaded ZIP file
+Right click the file
+Select Extract Here or Extract to folder
+Open the extracted folder
+Import into Android Studio
+Open Android Studio
+Click Open
+Select the extracted project folder
+Wait for Gradle sync to finish
+Click Run to launch the app
